@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "exports": {
+    "lib/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.1",
+      "compile": {
+        "bin/Debug/lib.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/lib.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/lib.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
